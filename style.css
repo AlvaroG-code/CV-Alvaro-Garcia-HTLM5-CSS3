@@ -201,7 +201,7 @@ nav ul li {
     display: grid;
     grid-template-columns: repeat(2, 350px);
     gap: 20px;
-    align-content: space-around;
+    align-content: center;
     margin-top: 15px;
 }
 
